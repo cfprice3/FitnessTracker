@@ -10,7 +10,7 @@ const API = {
     console.log('JSON: ', json)
     console.log('JSON - 2: ', json[json.length-2])
 
-    return json[json.length - 2];
+    return json[json.length - 1];
   },
   async addExercise(data) {
     const id = location.search.split("=")[1];
