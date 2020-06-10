@@ -39,6 +39,8 @@ function populateChart(data) {
   let workouts = workoutNames(data);
   const colors = generatePalette();
 
+  console.log('THINGS', pounds, workouts, durations)
+
   let line = document.querySelector("#canvas").getContext("2d");
   let bar = document.querySelector("#canvas2").getContext("2d");
   let pie = document.querySelector("#canvas3").getContext("2d");
