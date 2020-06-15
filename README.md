@@ -7,7 +7,7 @@
 #### *Created By Charles Price, (cfprice3)*
 #### email: cfprice3@gmail.com
 #### git url: https://github.com/cfprice3
-#### application url: https://cfprice3.github.io/FitnessTracker/
+#### application url: https://serene-bayou-86556.herokuapp.com/
 
 
 ### *Project Description:*
@@ -47,7 +47,7 @@ You can also use the Heroku link to use just the application without utilizing t
 
 
 ### **4. How you can contribute:**
-Any styling or formatting contributions are welcome!  I'm not 100% in love with the provided UI.  I think it could be designed a little better to make it a more enjoyable user experience.
+Any styling or formatting contributions are welcome!  I'm not 100% in love with the provided UI.  I think it could be designed a little better to make it a more enjoyable user experience.  Some other things you could do differently, is add some images or other stylings to make it a more enticing application to use.
 
 
 
